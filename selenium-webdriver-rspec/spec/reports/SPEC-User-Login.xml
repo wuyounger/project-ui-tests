@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="User Login" tests="2" time="13.827643" failures="0" errors="0" skipped="0" timestamp="2021-01-25T21:31:08+08:00">
+  <testcase name="User Login [1] Can sign in OK" time="5.820347">
+  </testcase>
+  <testcase name="User Login [1] User failed to sign in due to invalid password" time="1.56372">
+  </testcase>
+</testsuite>
