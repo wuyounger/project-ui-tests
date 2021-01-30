@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="49.207" timestamp="2021-01-28T17:13:46.031110" hostname="leons-MBP"><testcase classname="selenium-webdriver-python-unittest.tests.4_payment_test.PaymentTestCase" name="test_payment_by_credit_card" time="49.100" /></testsuite></testsuites>

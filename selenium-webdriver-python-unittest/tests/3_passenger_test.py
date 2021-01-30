@@ -48,7 +48,7 @@ class PassengerTestCase(unittest.TestCase, TestHelper):
 
     time.sleep(1)
     passenger_page = PassengerPage(self.driver)
-    passenger_page.enter_first_name("Bob")
+    passenger_page.enter_first_name("Wendy")
     passenger_page.enter_last_name("Tester")
     passenger_page.click_next()
 
